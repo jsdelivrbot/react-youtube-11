@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# YouTube Clone
 
-
+Practicing React with YouTube API 
 
 ### Getting Started
 
